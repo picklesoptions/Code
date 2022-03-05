@@ -1,5 +1,4 @@
 # Pickles Options Code Repo
-<font style='color: green'>Pickles Options Code Repo</font> 
 ### Contact
 Twitter: [@picklesoptions](https://twitter.com/picklesoptions)
 
